@@ -9,7 +9,7 @@ import (
 
 const (
 	api_url   = "https://api.audd.io/"
-	// api_token = "" // insert api key here
+	api_token = "" // insert api key here
 	
 )
 
