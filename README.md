@@ -8,7 +8,7 @@ For more infomation, please find the assignment pdf in the repository.
 ## The Go Version
 The latest Go version on Linux OS enabled machine. I do not recommend running the microservices in WSL.
 ## Audd.io API Key
-Register an trial account on “https://audd.io” to obtain your API key before running the microservices
+Register an trial account on “https://audd.io” to obtain your API key before running the microservices.
 ## Inserting the API Key
 Open the go file at `addison\search\service\service.go` and modify the code section:
 
